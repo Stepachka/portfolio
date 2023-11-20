@@ -1,10 +1,10 @@
 import { BlockAboutMeScreen } from './BlockAboutMeScreen';
-import './style.css';
+import './../../App.css';
 
 export const AboutMeScreen = () => {
 
     return ( 
-    <div className='bg-color-about-me'>
+    <div className='bg-color'>
         <div className='container-about-me'>
             <BlockAboutMeScreen />
         </div>
