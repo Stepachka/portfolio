@@ -3,6 +3,7 @@ import { Page } from './components/Page';
 import './App.css'
 
 function App() {
+  const testPush = []
   return (
     <div className="App"   >
 
@@ -11,7 +12,7 @@ function App() {
       <Page />
 
 
-      
+
     </div>
   );
 }
